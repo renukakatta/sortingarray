@@ -1,6 +1,6 @@
 public class sortingarray {
 
-	public static void main(String[] args) {
+	public static void main(string args[]) {
 		int []a={23,89,60,56,12,80};
 		int []b;
 		b= merge(a);
